@@ -418,7 +418,7 @@ function startGolfHud()
 			drawGolfTxtFixed(0.025, 0.31, 1.0,1.0,0.3, "Hold E to gain power and release to strike", 255, 255, 255, 255)
 			-- game info text
       drawGolfTxtFixed(0.025, 0.38, 1.0,1.0,0.4, "Game Info:", 255, 255, 255, 255)
-			drawGolfTxtFixed(0.025, 0.42, 1.0,1.0,0.3, "Strokes current hole: " .. golfstrokes, 255, 255, 255, 255)
+			drawGolfTxtFixed(0.025, 0.42, 1.0,1.0,0.3, "Strokes for current hole: " .. golfstrokes, 255, 255, 255, 255)
 			drawGolfTxtFixed(0.025, 0.45, 1.0,1.0,0.3, "Distance between ball and hole: " .. distance .. " m", 255, 255, 255, 255)
 			drawGolfTxtFixed(0.025, 0.48, 1.0,1.0,0.3, "Current hole: " .. golfHole, 255, 255, 255, 255)
 			drawGolfTxtFixed(0.025, 0.51, 1.0,1.0,0.3, "Total strokes: " .. totalgolfstrokes, 255, 255, 255, 255)
