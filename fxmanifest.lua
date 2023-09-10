@@ -2,7 +2,7 @@ games {'gta5'}
 
 fx_version 'cerulean'
 
-description 'A cleaned up version of Alberto Golf, which is an improved version Koil Golf, by PrinceAlbert.'
+description 'A cleaned up version of Alberto Golf, which is an improved version of Koil Golf, by PrinceAlbert.'
 version '0.0.1'
 
 client_script {
